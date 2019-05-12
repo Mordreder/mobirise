@@ -3,9 +3,6 @@
 		<loc>http://EuropaUniversalis4-Igor.ru/index.html</loc>
 	</url>
 	<url>
-		<loc>http://EuropaUniversalis4-Igor.ru/economy.html</loc>
-	</url>
-	<url>
 		<loc>http://EuropaUniversalis4-Igor.ru/battle.html</loc>
 	</url>
 	<url>
@@ -13,6 +10,9 @@
 	</url>
 	<url>
 		<loc>http://EuropaUniversalis4-Igor.ru/events.html</loc>
+	</url>
+	<url>
+		<loc>http://EuropaUniversalis4-Igor.ru/econom.html</loc>
 	</url>
 	<url>
 		<loc>http://EuropaUniversalis4-Igor.ru/countries.html</loc>
