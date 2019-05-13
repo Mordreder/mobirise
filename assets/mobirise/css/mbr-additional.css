@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Anton:400);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -43,7 +42,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 1.1rem;
 }
 .display-5 > .mbr-iconfont {
@@ -2239,6 +2238,54 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rqlCNCRvKz {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rqlCNCRvKz .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rqlCu3RbF9 {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rqlCu3RbF9 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rqlCu3RbF9 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rqlCu3RbF9 .mbr-text {
+  color: #767676;
+}
+.cid-rqlCrRS8dk {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rqlCrRS8dk .mbr-text,
+.cid-rqlCrRS8dk blockquote {
+  color: #767676;
+}
+.cid-rqlCvKQpxc {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rqlCvKQpxc .mbr-text,
+.cid-rqlCvKQpxc blockquote {
+  color: #767676;
+}
+.cid-rqlCvKQpxc DIV {
+  color: #8e12ea;
+  text-align: left;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
